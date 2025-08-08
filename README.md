@@ -40,40 +40,44 @@ pip install -r requirements.txt
 
 ```bash
 LLaMA-mini/
-├── data/                  # 存放训练语料和生成的dataset
-├── models/                # 模型结构模块（注意力、MLP、配置）
+├── checkpoints/                   # 模型检查点（未上传至 GitHub）
+│   └── model_epoch1.pt            # epoch1 训练权重
+├── data/                          # 语料和训练数据
+│   ├── tokenizers_corpus.txt      # 分词器训练语料
+│   ├── train_data.pt              # 编码后的训练数据（未上传至 GitHub）
+│   └── trained_tokenizer/         # 保存分词器
+│       ├── vocab.txt              # 分词器词表
+│       └── tokenizer.json         # 分词器模型
+├── models/                        # 模型结构模块
+│   ├── attention.py
+│   ├── decoder_block.py
 │   ├── model.py
 │   ├── model_config.py
-│   ├── attention.py
 │   ├── mlp.py
+│   ├── rmsnorm.py
 │   └── __init__.py
-├── tokenizer.py          # 自定义Tokenizer类
-├── train_tokenizer.py    # 分词器训练脚本
-├── tokenizer_test.py     # 测试分词器效果
-├── prepare_dataset.py    # 将文本语料编码为训练数据
-├── train.py              # 主训练脚本
-├── save_model.py         # 保存训练模型权重
-├── generate.py           # 文本生成推理脚本
-├── requirements.txt      # 项目依赖
-└── README.md             # 项目说明文档
+├── config.py                      # 配置模型路径和常量
+├── generate.py                    # 推理脚本
+├── prepare_dataset.py            # 编码训练数据
+├── requirements.txt              # 项目依赖
+├── save_model.py                 # 保存权重
+├── tokenizer.py                  # 自定义 Tokenizer 类
+├── tokenizer_test.py             # 测试分词器效果
+├── train.py                      # 模型训练脚本
+└── train_tokenizer.py            # 分词器训练脚本
 ```
 
 ---
 
 ## 📝 5. Prepare Your Dataset | 数据准备
 
-将你的语料放入 `data/corpus.txt` 文件中，每行为一条语句。
+将语料文件放入 `data/tokenizers_corpus.txt` 中，每行一句。
 
 ```bash
 python train_tokenizer.py       # 训练 tokenizer
 python tokenizer_test.py        # 检查分词效果
 python prepare_dataset.py       # 编码语料为训练数据
 ```
-
-输出将生成：
-
-- `train_data.pt`：用于训练的 tensor 数据
-- `vocab.txt`：分词器词表
 
 ---
 
@@ -83,12 +87,10 @@ python prepare_dataset.py       # 编码语料为训练数据
 python train.py
 ```
 
-你可以在 `train.py` 中修改训练轮数、批大小、学习率等超参数。
+训练好的模型将保存在 `checkpoints/` 目录中，如：
 
-训练完成后，模型将保存为：
-
-```bash
-model_epoch1.pt
+```
+checkpoints/model_epoch1.pt
 ```
 
 ---
@@ -99,7 +101,7 @@ model_epoch1.pt
 python generate.py
 ```
 
-根据输入提示生成文本：
+你可以输入一句开头文本，模型将自动补全后续：
 
 ```
 💬 请输入一句开头：你好
@@ -110,8 +112,8 @@ python generate.py
 
 ## 📌 8. Notes | 说明
 
-- 训练轮数少 / 语料量小时，生成结果可能较随机。
-- 可进一步训练更多 epoch、扩展语料、调优超参数。
+- 如果模型效果不好，可以继续增加训练轮数、扩展语料或调节参数。
+- 模型和训练数据未上传至 GitHub（因文件过大），请自行训练或加载本地文件。
 
 ---
 
@@ -121,8 +123,8 @@ python generate.py
 
 ---
 
-欢迎 Star、Fork 与二次开发！🚀
+欢迎 Star、Fork 与改进本项目！🚀
 
 > Made with ❤️ by emo
 
-南京工业大学计算科学与技术专业本科生
+南京工业大学 计算科学与技术专业 本科生

@@ -1,0 +1,13 @@
+# Python 缓存文件
+__pycache__/
+*.pyc
+
+# 系统文件
+.DS_Store
+.idea/
+.vscode/
+
+# 模型权重与训练数据
+*.pt
+checkpoints/
+data/train_data.pt

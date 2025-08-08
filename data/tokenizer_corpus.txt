@@ -1,0 +1,1000 @@
+Transformer 是什么？
+你知道什么是位置编码吗？
+训练数据越丰富，模型越强大。
+Self-Attention 是模型捕捉上下文信息的核心机制。
+我们今天将手动搭建一个类 LLaMA 的小模型。
+欢迎来到 AI 时代。
+Transformer 是什么？
+模型输出的是下一个 token 的概率分布。
+以下是一个简单的例子。
+大模型能够学习语言的统计规律。
+LLM 模型通常使用 BPE 作为分词方式。
+优化器使用的是 AdamW。
+欢迎来到 AI 时代。
+优化器使用的是 AdamW。
+Transformer 是什么？
+以下是 Python 代码示例：
+你知道什么是位置编码吗？
+模型参数量越大，越能表达复杂模式。
+RMSNorm 是一种轻量化归一化方式。
+以下是 Python 代码示例：
+现在开始训练我们的 tokenizer。
+模型输出的是下一个 token 的概率分布。
+现在开始训练我们的 tokenizer。
+模型输出的是下一个 token 的概率分布。
+你好，欢迎学习大语言模型。
+大模型能够学习语言的统计规律。
+Transformer 是什么？
+训练数据越丰富，模型越强大。
+以下是 Python 代码示例：
+你好，欢迎学习大语言模型。
+RMSNorm 是一种轻量化归一化方式。
+请解释一下 q、k、v 的作用？
+LLaMA 使用了 FlashAttention 来提升推理效率。
+欢迎来到 AI 时代。
+你知道什么是位置编码吗？
+Transformer 是什么？
+我们今天将手动搭建一个类 LLaMA 的小模型。
+Self-Attention 是模型捕捉上下文信息的核心机制。
+请解释一下 q、k、v 的作用？
+attention(q, k, v) = softmax(qk^T)v
+欢迎来到 AI 时代。
+def hello(): print("你好，大模型")
+优化器使用的是 AdamW。
+LLM 模型通常使用 BPE 作为分词方式。
+欢迎来到 AI 时代。
+你知道什么是位置编码吗？
+def hello(): print("你好，大模型")
+我们今天将手动搭建一个类 LLaMA 的小模型。
+欢迎来到 AI 时代。
+LLM 模型通常使用 BPE 作为分词方式。
+请解释一下 q、k、v 的作用？
+以下是 Python 代码示例：
+Transformer 是什么？
+LLM 模型通常使用 BPE 作为分词方式。
+模型参数量越大，越能表达复杂模式。
+RMSNorm 是一种轻量化归一化方式。
+我们今天将手动搭建一个类 LLaMA 的小模型。
+LLaMA 使用了 FlashAttention 来提升推理效率。
+以下是一个简单的例子。
+请解释一下 q、k、v 的作用？
+你好，欢迎学习大语言模型。
+LLaMA 使用了 FlashAttention 来提升推理效率。
+以下是 Python 代码示例：
+欢迎来到 AI 时代。
+你知道什么是位置编码吗？
+优化器使用的是 AdamW。
+优化器使用的是 AdamW。
+以下是一个简单的例子。
+优化器使用的是 AdamW。
+现在开始训练我们的 tokenizer。
+优化器使用的是 AdamW。
+以下是 Python 代码示例：
+欢迎来到 AI 时代。
+现在开始训练我们的 tokenizer。
+请解释一下 q、k、v 的作用？
+欢迎来到 AI 时代。
+attention(q, k, v) = softmax(qk^T)v
+模型参数量越大，越能表达复杂模式。
+现在开始训练我们的 tokenizer。
+你知道什么是位置编码吗？
+LLaMA 使用了 FlashAttention 来提升推理效率。
+大模型能够学习语言的统计规律。
+attention(q, k, v) = softmax(qk^T)v
+模型参数量越大，越能表达复杂模式。
+现在开始训练我们的 tokenizer。
+RMSNorm 是一种轻量化归一化方式。
+attention(q, k, v) = softmax(qk^T)v
+现在开始训练我们的 tokenizer。
+你知道什么是位置编码吗？
+LLaMA 使用了 FlashAttention 来提升推理效率。
+LLM 模型通常使用 BPE 作为分词方式。
+训练数据越丰富，模型越强大。
+大模型能够学习语言的统计规律。
+模型输出的是下一个 token 的概率分布。
+LLaMA 使用了 FlashAttention 来提升推理效率。
+模型参数量越大，越能表达复杂模式。
+我们今天将手动搭建一个类 LLaMA 的小模型。
+def hello(): print("你好，大模型")
+请解释一下 q、k、v 的作用？
+欢迎来到 AI 时代。
+我们今天将手动搭建一个类 LLaMA 的小模型。
+attention(q, k, v) = softmax(qk^T)v
+请解释一下 q、k、v 的作用？
+以下是 Python 代码示例：
+Transformer 是什么？
+优化器使用的是 AdamW。
+LLaMA 使用了 FlashAttention 来提升推理效率。
+模型参数量越大，越能表达复杂模式。
+Self-Attention 是模型捕捉上下文信息的核心机制。
+请解释一下 q、k、v 的作用？
+LLaMA 使用了 FlashAttention 来提升推理效率。
+attention(q, k, v) = softmax(qk^T)v
+RMSNorm 是一种轻量化归一化方式。
+欢迎来到 AI 时代。
+以下是 Python 代码示例：
+attention(q, k, v) = softmax(qk^T)v
+def hello(): print("你好，大模型")
+现在开始训练我们的 tokenizer。
+请解释一下 q、k、v 的作用？
+RMSNorm 是一种轻量化归一化方式。
+Self-Attention 是模型捕捉上下文信息的核心机制。
+def hello(): print("你好，大模型")
+Transformer 是什么？
+Transformer 是什么？
+欢迎来到 AI 时代。
+LLM 模型通常使用 BPE 作为分词方式。
+欢迎来到 AI 时代。
+现在开始训练我们的 tokenizer。
+你知道什么是位置编码吗？
+LLaMA 使用了 FlashAttention 来提升推理效率。
+模型参数量越大，越能表达复杂模式。
+Self-Attention 是模型捕捉上下文信息的核心机制。
+请解释一下 q、k、v 的作用？
+LLaMA 使用了 FlashAttention 来提升推理效率。
+LLM 模型通常使用 BPE 作为分词方式。
+大模型能够学习语言的统计规律。
+模型输出的是下一个 token 的概率分布。
+你知道什么是位置编码吗？
+def hello(): print("你好，大模型")
+你好，欢迎学习大语言模型。
+RMSNorm 是一种轻量化归一化方式。
+现在开始训练我们的 tokenizer。
+def hello(): print("你好，大模型")
+欢迎来到 AI 时代。
+你知道什么是位置编码吗？
+大模型能够学习语言的统计规律。
+模型输出的是下一个 token 的概率分布。
+请解释一下 q、k、v 的作用？
+Transformer 是什么？
+def hello(): print("你好，大模型")
+以下是 Python 代码示例：
+优化器使用的是 AdamW。
+你知道什么是位置编码吗？
+模型输出的是下一个 token 的概率分布。
+优化器使用的是 AdamW。
+RMSNorm 是一种轻量化归一化方式。
+优化器使用的是 AdamW。
+你知道什么是位置编码吗？
+欢迎来到 AI 时代。
+你知道什么是位置编码吗？
+模型参数量越大，越能表达复杂模式。
+以下是一个简单的例子。
+你知道什么是位置编码吗？
+attention(q, k, v) = softmax(qk^T)v
+模型参数量越大，越能表达复杂模式。
+你知道什么是位置编码吗？
+LLaMA 使用了 FlashAttention 来提升推理效率。
+你好，欢迎学习大语言模型。
+模型参数量越大，越能表达复杂模式。
+LLaMA 使用了 FlashAttention 来提升推理效率。
+Self-Attention 是模型捕捉上下文信息的核心机制。
+def hello(): print("你好，大模型")
+欢迎来到 AI 时代。
+以下是 Python 代码示例：
+RMSNorm 是一种轻量化归一化方式。
+模型输出的是下一个 token 的概率分布。
+以下是 Python 代码示例：
+模型输出的是下一个 token 的概率分布。
+LLaMA 使用了 FlashAttention 来提升推理效率。
+优化器使用的是 AdamW。
+模型参数量越大，越能表达复杂模式。
+你知道什么是位置编码吗？
+大模型能够学习语言的统计规律。
+模型参数量越大，越能表达复杂模式。
+优化器使用的是 AdamW。
+LLaMA 使用了 FlashAttention 来提升推理效率。
+模型参数量越大，越能表达复杂模式。
+请解释一下 q、k、v 的作用？
+欢迎来到 AI 时代。
+attention(q, k, v) = softmax(qk^T)v
+你好，欢迎学习大语言模型。
+Self-Attention 是模型捕捉上下文信息的核心机制。
+模型输出的是下一个 token 的概率分布。
+优化器使用的是 AdamW。
+欢迎来到 AI 时代。
+LLM 模型通常使用 BPE 作为分词方式。
+def hello(): print("你好，大模型")
+LLaMA 使用了 FlashAttention 来提升推理效率。
+请解释一下 q、k、v 的作用？
+模型输出的是下一个 token 的概率分布。
+LLM 模型通常使用 BPE 作为分词方式。
+LLaMA 使用了 FlashAttention 来提升推理效率。
+以下是 Python 代码示例：
+请解释一下 q、k、v 的作用？
+def hello(): print("你好，大模型")
+def hello(): print("你好，大模型")
+现在开始训练我们的 tokenizer。
+请解释一下 q、k、v 的作用？
+Transformer 是什么？
+优化器使用的是 AdamW。
+以下是一个简单的例子。
+RMSNorm 是一种轻量化归一化方式。
+attention(q, k, v) = softmax(qk^T)v
+Self-Attention 是模型捕捉上下文信息的核心机制。
+欢迎来到 AI 时代。
+优化器使用的是 AdamW。
+你好，欢迎学习大语言模型。
+Self-Attention 是模型捕捉上下文信息的核心机制。
+以下是一个简单的例子。
+模型输出的是下一个 token 的概率分布。
+训练数据越丰富，模型越强大。
+LLaMA 使用了 FlashAttention 来提升推理效率。
+大模型能够学习语言的统计规律。
+RMSNorm 是一种轻量化归一化方式。
+大模型能够学习语言的统计规律。
+以下是一个简单的例子。
+我们今天将手动搭建一个类 LLaMA 的小模型。
+请解释一下 q、k、v 的作用？
+现在开始训练我们的 tokenizer。
+你知道什么是位置编码吗？
+优化器使用的是 AdamW。
+以下是一个简单的例子。
+现在开始训练我们的 tokenizer。
+欢迎来到 AI 时代。
+训练数据越丰富，模型越强大。
+优化器使用的是 AdamW。
+以下是 Python 代码示例：
+大模型能够学习语言的统计规律。
+attention(q, k, v) = softmax(qk^T)v
+Transformer 是什么？
+LLM 模型通常使用 BPE 作为分词方式。
+def hello(): print("你好，大模型")
+模型参数量越大，越能表达复杂模式。
+你知道什么是位置编码吗？
+Self-Attention 是模型捕捉上下文信息的核心机制。
+模型输出的是下一个 token 的概率分布。
+RMSNorm 是一种轻量化归一化方式。
+def hello(): print("你好，大模型")
+我们今天将手动搭建一个类 LLaMA 的小模型。
+RMSNorm 是一种轻量化归一化方式。
+RMSNorm 是一种轻量化归一化方式。
+我们今天将手动搭建一个类 LLaMA 的小模型。
+LLaMA 使用了 FlashAttention 来提升推理效率。
+Transformer 是什么？
+模型参数量越大，越能表达复杂模式。
+大模型能够学习语言的统计规律。
+以下是一个简单的例子。
+大模型能够学习语言的统计规律。
+模型输出的是下一个 token 的概率分布。
+模型输出的是下一个 token 的概率分布。
+优化器使用的是 AdamW。
+现在开始训练我们的 tokenizer。
+Self-Attention 是模型捕捉上下文信息的核心机制。
+模型参数量越大，越能表达复杂模式。
+Transformer 是什么？
+LLM 模型通常使用 BPE 作为分词方式。
+attention(q, k, v) = softmax(qk^T)v
+训练数据越丰富，模型越强大。
+训练数据越丰富，模型越强大。
+你好，欢迎学习大语言模型。
+优化器使用的是 AdamW。
+现在开始训练我们的 tokenizer。
+大模型能够学习语言的统计规律。
+训练数据越丰富，模型越强大。
+训练数据越丰富，模型越强大。
+Transformer 是什么？
+以下是 Python 代码示例：
+以下是 Python 代码示例：
+以下是一个简单的例子。
+RMSNorm 是一种轻量化归一化方式。
+我们今天将手动搭建一个类 LLaMA 的小模型。
+以下是 Python 代码示例：
+LLaMA 使用了 FlashAttention 来提升推理效率。
+以下是 Python 代码示例：
+大模型能够学习语言的统计规律。
+欢迎来到 AI 时代。
+Self-Attention 是模型捕捉上下文信息的核心机制。
+我们今天将手动搭建一个类 LLaMA 的小模型。
+你知道什么是位置编码吗？
+Transformer 是什么？
+以下是一个简单的例子。
+优化器使用的是 AdamW。
+模型输出的是下一个 token 的概率分布。
+模型输出的是下一个 token 的概率分布。
+你好，欢迎学习大语言模型。
+Transformer 是什么？
+现在开始训练我们的 tokenizer。
+优化器使用的是 AdamW。
+模型参数量越大，越能表达复杂模式。
+现在开始训练我们的 tokenizer。
+你知道什么是位置编码吗？
+LLM 模型通常使用 BPE 作为分词方式。
+Transformer 是什么？
+模型输出的是下一个 token 的概率分布。
+模型输出的是下一个 token 的概率分布。
+attention(q, k, v) = softmax(qk^T)v
+Transformer 是什么？
+欢迎来到 AI 时代。
+欢迎来到 AI 时代。
+def hello(): print("你好，大模型")
+请解释一下 q、k、v 的作用？
+Transformer 是什么？
+LLaMA 使用了 FlashAttention 来提升推理效率。
+以下是一个简单的例子。
+你好，欢迎学习大语言模型。
+现在开始训练我们的 tokenizer。
+训练数据越丰富，模型越强大。
+请解释一下 q、k、v 的作用？
+Transformer 是什么？
+优化器使用的是 AdamW。
+请解释一下 q、k、v 的作用？
+RMSNorm 是一种轻量化归一化方式。
+优化器使用的是 AdamW。
+大模型能够学习语言的统计规律。
+你好，欢迎学习大语言模型。
+LLM 模型通常使用 BPE 作为分词方式。
+大模型能够学习语言的统计规律。
+模型参数量越大，越能表达复杂模式。
+RMSNorm 是一种轻量化归一化方式。
+attention(q, k, v) = softmax(qk^T)v
+你好，欢迎学习大语言模型。
+优化器使用的是 AdamW。
+训练数据越丰富，模型越强大。
+Self-Attention 是模型捕捉上下文信息的核心机制。
+LLaMA 使用了 FlashAttention 来提升推理效率。
+我们今天将手动搭建一个类 LLaMA 的小模型。
+模型参数量越大，越能表达复杂模式。
+优化器使用的是 AdamW。
+以下是一个简单的例子。
+Transformer 是什么？
+attention(q, k, v) = softmax(qk^T)v
+我们今天将手动搭建一个类 LLaMA 的小模型。
+大模型能够学习语言的统计规律。
+Transformer 是什么？
+模型参数量越大，越能表达复杂模式。
+你知道什么是位置编码吗？
+LLM 模型通常使用 BPE 作为分词方式。
+你好，欢迎学习大语言模型。
+模型输出的是下一个 token 的概率分布。
+LLaMA 使用了 FlashAttention 来提升推理效率。
+大模型能够学习语言的统计规律。
+RMSNorm 是一种轻量化归一化方式。
+Transformer 是什么？
+RMSNorm 是一种轻量化归一化方式。
+我们今天将手动搭建一个类 LLaMA 的小模型。
+以下是一个简单的例子。
+我们今天将手动搭建一个类 LLaMA 的小模型。
+attention(q, k, v) = softmax(qk^T)v
+欢迎来到 AI 时代。
+模型参数量越大，越能表达复杂模式。
+欢迎来到 AI 时代。
+我们今天将手动搭建一个类 LLaMA 的小模型。
+Transformer 是什么？
+训练数据越丰富，模型越强大。
+模型输出的是下一个 token 的概率分布。
+LLM 模型通常使用 BPE 作为分词方式。
+训练数据越丰富，模型越强大。
+你知道什么是位置编码吗？
+请解释一下 q、k、v 的作用？
+请解释一下 q、k、v 的作用？
+以下是一个简单的例子。
+以下是 Python 代码示例：
+你知道什么是位置编码吗？
+以下是 Python 代码示例：
+模型输出的是下一个 token 的概率分布。
+LLaMA 使用了 FlashAttention 来提升推理效率。
+以下是 Python 代码示例：
+训练数据越丰富，模型越强大。
+LLaMA 使用了 FlashAttention 来提升推理效率。
+attention(q, k, v) = softmax(qk^T)v
+请解释一下 q、k、v 的作用？
+训练数据越丰富，模型越强大。
+以下是 Python 代码示例：
+模型参数量越大，越能表达复杂模式。
+你好，欢迎学习大语言模型。
+def hello(): print("你好，大模型")
+以下是 Python 代码示例：
+大模型能够学习语言的统计规律。
+Transformer 是什么？
+模型输出的是下一个 token 的概率分布。
+LLM 模型通常使用 BPE 作为分词方式。
+模型输出的是下一个 token 的概率分布。
+LLaMA 使用了 FlashAttention 来提升推理效率。
+模型输出的是下一个 token 的概率分布。
+请解释一下 q、k、v 的作用？
+以下是 Python 代码示例：
+attention(q, k, v) = softmax(qk^T)v
+LLaMA 使用了 FlashAttention 来提升推理效率。
+你好，欢迎学习大语言模型。
+模型输出的是下一个 token 的概率分布。
+LLaMA 使用了 FlashAttention 来提升推理效率。
+请解释一下 q、k、v 的作用？
+优化器使用的是 AdamW。
+我们今天将手动搭建一个类 LLaMA 的小模型。
+你知道什么是位置编码吗？
+LLM 模型通常使用 BPE 作为分词方式。
+Transformer 是什么？
+以下是一个简单的例子。
+模型输出的是下一个 token 的概率分布。
+RMSNorm 是一种轻量化归一化方式。
+以下是 Python 代码示例：
+以下是 Python 代码示例：
+Transformer 是什么？
+你知道什么是位置编码吗？
+训练数据越丰富，模型越强大。
+Transformer 是什么？
+def hello(): print("你好，大模型")
+Transformer 是什么？
+欢迎来到 AI 时代。
+你知道什么是位置编码吗？
+你好，欢迎学习大语言模型。
+请解释一下 q、k、v 的作用？
+以下是一个简单的例子。
+欢迎来到 AI 时代。
+Transformer 是什么？
+你知道什么是位置编码吗？
+模型输出的是下一个 token 的概率分布。
+模型参数量越大，越能表达复杂模式。
+大模型能够学习语言的统计规律。
+欢迎来到 AI 时代。
+优化器使用的是 AdamW。
+LLM 模型通常使用 BPE 作为分词方式。
+训练数据越丰富，模型越强大。
+模型输出的是下一个 token 的概率分布。
+大模型能够学习语言的统计规律。
+我们今天将手动搭建一个类 LLaMA 的小模型。
+我们今天将手动搭建一个类 LLaMA 的小模型。
+def hello(): print("你好，大模型")
+你知道什么是位置编码吗？
+LLM 模型通常使用 BPE 作为分词方式。
+现在开始训练我们的 tokenizer。
+我们今天将手动搭建一个类 LLaMA 的小模型。
+大模型能够学习语言的统计规律。
+RMSNorm 是一种轻量化归一化方式。
+模型参数量越大，越能表达复杂模式。
+def hello(): print("你好，大模型")
+LLaMA 使用了 FlashAttention 来提升推理效率。
+Transformer 是什么？
+以下是一个简单的例子。
+attention(q, k, v) = softmax(qk^T)v
+Transformer 是什么？
+以下是一个简单的例子。
+以下是 Python 代码示例：
+以下是 Python 代码示例：
+以下是一个简单的例子。
+请解释一下 q、k、v 的作用？
+attention(q, k, v) = softmax(qk^T)v
+请解释一下 q、k、v 的作用？
+以下是一个简单的例子。
+请解释一下 q、k、v 的作用？
+模型参数量越大，越能表达复杂模式。
+训练数据越丰富，模型越强大。
+你知道什么是位置编码吗？
+模型参数量越大，越能表达复杂模式。
+attention(q, k, v) = softmax(qk^T)v
+欢迎来到 AI 时代。
+以下是 Python 代码示例：
+LLaMA 使用了 FlashAttention 来提升推理效率。
+def hello(): print("你好，大模型")
+模型参数量越大，越能表达复杂模式。
+以下是一个简单的例子。
+模型参数量越大，越能表达复杂模式。
+你知道什么是位置编码吗？
+你好，欢迎学习大语言模型。
+你好，欢迎学习大语言模型。
+现在开始训练我们的 tokenizer。
+RMSNorm 是一种轻量化归一化方式。
+模型参数量越大，越能表达复杂模式。
+大模型能够学习语言的统计规律。
+训练数据越丰富，模型越强大。
+请解释一下 q、k、v 的作用？
+我们今天将手动搭建一个类 LLaMA 的小模型。
+以下是 Python 代码示例：
+Self-Attention 是模型捕捉上下文信息的核心机制。
+Self-Attention 是模型捕捉上下文信息的核心机制。
+Self-Attention 是模型捕捉上下文信息的核心机制。
+你好，欢迎学习大语言模型。
+RMSNorm 是一种轻量化归一化方式。
+训练数据越丰富，模型越强大。
+Self-Attention 是模型捕捉上下文信息的核心机制。
+优化器使用的是 AdamW。
+LLaMA 使用了 FlashAttention 来提升推理效率。
+以下是一个简单的例子。
+训练数据越丰富，模型越强大。
+RMSNorm 是一种轻量化归一化方式。
+以下是一个简单的例子。
+你知道什么是位置编码吗？
+你好，欢迎学习大语言模型。
+LLM 模型通常使用 BPE 作为分词方式。
+def hello(): print("你好，大模型")
+attention(q, k, v) = softmax(qk^T)v
+模型参数量越大，越能表达复杂模式。
+Transformer 是什么？
+def hello(): print("你好，大模型")
+大模型能够学习语言的统计规律。
+优化器使用的是 AdamW。
+优化器使用的是 AdamW。
+def hello(): print("你好，大模型")
+Self-Attention 是模型捕捉上下文信息的核心机制。
+def hello(): print("你好，大模型")
+大模型能够学习语言的统计规律。
+大模型能够学习语言的统计规律。
+请解释一下 q、k、v 的作用？
+Self-Attention 是模型捕捉上下文信息的核心机制。
+RMSNorm 是一种轻量化归一化方式。
+以下是 Python 代码示例：
+以下是 Python 代码示例：
+Transformer 是什么？
+LLM 模型通常使用 BPE 作为分词方式。
+训练数据越丰富，模型越强大。
+优化器使用的是 AdamW。
+Self-Attention 是模型捕捉上下文信息的核心机制。
+以下是一个简单的例子。
+欢迎来到 AI 时代。
+模型输出的是下一个 token 的概率分布。
+LLM 模型通常使用 BPE 作为分词方式。
+现在开始训练我们的 tokenizer。
+def hello(): print("你好，大模型")
+模型输出的是下一个 token 的概率分布。
+模型输出的是下一个 token 的概率分布。
+RMSNorm 是一种轻量化归一化方式。
+attention(q, k, v) = softmax(qk^T)v
+优化器使用的是 AdamW。
+我们今天将手动搭建一个类 LLaMA 的小模型。
+以下是一个简单的例子。
+Self-Attention 是模型捕捉上下文信息的核心机制。
+attention(q, k, v) = softmax(qk^T)v
+Self-Attention 是模型捕捉上下文信息的核心机制。
+欢迎来到 AI 时代。
+def hello(): print("你好，大模型")
+RMSNorm 是一种轻量化归一化方式。
+优化器使用的是 AdamW。
+大模型能够学习语言的统计规律。
+你知道什么是位置编码吗？
+训练数据越丰富，模型越强大。
+Self-Attention 是模型捕捉上下文信息的核心机制。
+以下是一个简单的例子。
+以下是 Python 代码示例：
+def hello(): print("你好，大模型")
+模型参数量越大，越能表达复杂模式。
+优化器使用的是 AdamW。
+以下是一个简单的例子。
+现在开始训练我们的 tokenizer。
+欢迎来到 AI 时代。
+LLM 模型通常使用 BPE 作为分词方式。
+我们今天将手动搭建一个类 LLaMA 的小模型。
+RMSNorm 是一种轻量化归一化方式。
+RMSNorm 是一种轻量化归一化方式。
+Self-Attention 是模型捕捉上下文信息的核心机制。
+以下是 Python 代码示例：
+优化器使用的是 AdamW。
+以下是一个简单的例子。
+LLaMA 使用了 FlashAttention 来提升推理效率。
+Transformer 是什么？
+优化器使用的是 AdamW。
+以下是 Python 代码示例：
+训练数据越丰富，模型越强大。
+以下是一个简单的例子。
+模型输出的是下一个 token 的概率分布。
+attention(q, k, v) = softmax(qk^T)v
+请解释一下 q、k、v 的作用？
+你知道什么是位置编码吗？
+def hello(): print("你好，大模型")
+Transformer 是什么？
+模型参数量越大，越能表达复杂模式。
+Transformer 是什么？
+Self-Attention 是模型捕捉上下文信息的核心机制。
+以下是一个简单的例子。
+我们今天将手动搭建一个类 LLaMA 的小模型。
+LLM 模型通常使用 BPE 作为分词方式。
+Self-Attention 是模型捕捉上下文信息的核心机制。
+你好，欢迎学习大语言模型。
+以下是 Python 代码示例：
+你好，欢迎学习大语言模型。
+以下是 Python 代码示例：
+现在开始训练我们的 tokenizer。
+大模型能够学习语言的统计规律。
+模型输出的是下一个 token 的概率分布。
+Self-Attention 是模型捕捉上下文信息的核心机制。
+你好，欢迎学习大语言模型。
+attention(q, k, v) = softmax(qk^T)v
+请解释一下 q、k、v 的作用？
+我们今天将手动搭建一个类 LLaMA 的小模型。
+请解释一下 q、k、v 的作用？
+优化器使用的是 AdamW。
+Transformer 是什么？
+现在开始训练我们的 tokenizer。
+以下是一个简单的例子。
+以下是一个简单的例子。
+以下是一个简单的例子。
+模型参数量越大，越能表达复杂模式。
+训练数据越丰富，模型越强大。
+LLM 模型通常使用 BPE 作为分词方式。
+LLM 模型通常使用 BPE 作为分词方式。
+以下是 Python 代码示例：
+模型参数量越大，越能表达复杂模式。
+attention(q, k, v) = softmax(qk^T)v
+我们今天将手动搭建一个类 LLaMA 的小模型。
+我们今天将手动搭建一个类 LLaMA 的小模型。
+训练数据越丰富，模型越强大。
+我们今天将手动搭建一个类 LLaMA 的小模型。
+def hello(): print("你好，大模型")
+以下是一个简单的例子。
+大模型能够学习语言的统计规律。
+你知道什么是位置编码吗？
+优化器使用的是 AdamW。
+你好，欢迎学习大语言模型。
+我们今天将手动搭建一个类 LLaMA 的小模型。
+以下是一个简单的例子。
+LLaMA 使用了 FlashAttention 来提升推理效率。
+优化器使用的是 AdamW。
+大模型能够学习语言的统计规律。
+你好，欢迎学习大语言模型。
+Self-Attention 是模型捕捉上下文信息的核心机制。
+训练数据越丰富，模型越强大。
+以下是 Python 代码示例：
+欢迎来到 AI 时代。
+大模型能够学习语言的统计规律。
+attention(q, k, v) = softmax(qk^T)v
+欢迎来到 AI 时代。
+模型参数量越大，越能表达复杂模式。
+def hello(): print("你好，大模型")
+LLM 模型通常使用 BPE 作为分词方式。
+LLM 模型通常使用 BPE 作为分词方式。
+模型参数量越大，越能表达复杂模式。
+我们今天将手动搭建一个类 LLaMA 的小模型。
+Self-Attention 是模型捕捉上下文信息的核心机制。
+模型输出的是下一个 token 的概率分布。
+我们今天将手动搭建一个类 LLaMA 的小模型。
+LLaMA 使用了 FlashAttention 来提升推理效率。
+attention(q, k, v) = softmax(qk^T)v
+Self-Attention 是模型捕捉上下文信息的核心机制。
+以下是 Python 代码示例：
+请解释一下 q、k、v 的作用？
+现在开始训练我们的 tokenizer。
+你好，欢迎学习大语言模型。
+模型参数量越大，越能表达复杂模式。
+attention(q, k, v) = softmax(qk^T)v
+def hello(): print("你好，大模型")
+现在开始训练我们的 tokenizer。
+Transformer 是什么？
+欢迎来到 AI 时代。
+模型输出的是下一个 token 的概率分布。
+请解释一下 q、k、v 的作用？
+欢迎来到 AI 时代。
+你好，欢迎学习大语言模型。
+Self-Attention 是模型捕捉上下文信息的核心机制。
+大模型能够学习语言的统计规律。
+请解释一下 q、k、v 的作用？
+以下是一个简单的例子。
+你知道什么是位置编码吗？
+大模型能够学习语言的统计规律。
+Self-Attention 是模型捕捉上下文信息的核心机制。
+你知道什么是位置编码吗？
+欢迎来到 AI 时代。
+我们今天将手动搭建一个类 LLaMA 的小模型。
+大模型能够学习语言的统计规律。
+def hello(): print("你好，大模型")
+以下是一个简单的例子。
+LLM 模型通常使用 BPE 作为分词方式。
+attention(q, k, v) = softmax(qk^T)v
+以下是一个简单的例子。
+attention(q, k, v) = softmax(qk^T)v
+大模型能够学习语言的统计规律。
+Transformer 是什么？
+LLaMA 使用了 FlashAttention 来提升推理效率。
+RMSNorm 是一种轻量化归一化方式。
+你好，欢迎学习大语言模型。
+LLaMA 使用了 FlashAttention 来提升推理效率。
+大模型能够学习语言的统计规律。
+大模型能够学习语言的统计规律。
+现在开始训练我们的 tokenizer。
+Self-Attention 是模型捕捉上下文信息的核心机制。
+我们今天将手动搭建一个类 LLaMA 的小模型。
+大模型能够学习语言的统计规律。
+以下是 Python 代码示例：
+欢迎来到 AI 时代。
+优化器使用的是 AdamW。
+模型参数量越大，越能表达复杂模式。
+以下是一个简单的例子。
+RMSNorm 是一种轻量化归一化方式。
+attention(q, k, v) = softmax(qk^T)v
+模型输出的是下一个 token 的概率分布。
+模型参数量越大，越能表达复杂模式。
+你知道什么是位置编码吗？
+LLaMA 使用了 FlashAttention 来提升推理效率。
+LLaMA 使用了 FlashAttention 来提升推理效率。
+以下是 Python 代码示例：
+LLaMA 使用了 FlashAttention 来提升推理效率。
+训练数据越丰富，模型越强大。
+请解释一下 q、k、v 的作用？
+attention(q, k, v) = softmax(qk^T)v
+训练数据越丰富，模型越强大。
+大模型能够学习语言的统计规律。
+RMSNorm 是一种轻量化归一化方式。
+LLM 模型通常使用 BPE 作为分词方式。
+大模型能够学习语言的统计规律。
+attention(q, k, v) = softmax(qk^T)v
+训练数据越丰富，模型越强大。
+Self-Attention 是模型捕捉上下文信息的核心机制。
+你好，欢迎学习大语言模型。
+LLM 模型通常使用 BPE 作为分词方式。
+欢迎来到 AI 时代。
+欢迎来到 AI 时代。
+现在开始训练我们的 tokenizer。
+我们今天将手动搭建一个类 LLaMA 的小模型。
+LLaMA 使用了 FlashAttention 来提升推理效率。
+模型参数量越大，越能表达复杂模式。
+def hello(): print("你好，大模型")
+Transformer 是什么？
+以下是一个简单的例子。
+attention(q, k, v) = softmax(qk^T)v
+attention(q, k, v) = softmax(qk^T)v
+以下是 Python 代码示例：
+欢迎来到 AI 时代。
+Self-Attention 是模型捕捉上下文信息的核心机制。
+RMSNorm 是一种轻量化归一化方式。
+RMSNorm 是一种轻量化归一化方式。
+现在开始训练我们的 tokenizer。
+训练数据越丰富，模型越强大。
+Transformer 是什么？
+你好，欢迎学习大语言模型。
+模型参数量越大，越能表达复杂模式。
+训练数据越丰富，模型越强大。
+RMSNorm 是一种轻量化归一化方式。
+attention(q, k, v) = softmax(qk^T)v
+大模型能够学习语言的统计规律。
+模型参数量越大，越能表达复杂模式。
+我们今天将手动搭建一个类 LLaMA 的小模型。
+attention(q, k, v) = softmax(qk^T)v
+大模型能够学习语言的统计规律。
+模型输出的是下一个 token 的概率分布。
+优化器使用的是 AdamW。
+def hello(): print("你好，大模型")
+现在开始训练我们的 tokenizer。
+def hello(): print("你好，大模型")
+以下是 Python 代码示例：
+attention(q, k, v) = softmax(qk^T)v
+attention(q, k, v) = softmax(qk^T)v
+模型输出的是下一个 token 的概率分布。
+模型参数量越大，越能表达复杂模式。
+模型参数量越大，越能表达复杂模式。
+你知道什么是位置编码吗？
+训练数据越丰富，模型越强大。
+你好，欢迎学习大语言模型。
+LLM 模型通常使用 BPE 作为分词方式。
+attention(q, k, v) = softmax(qk^T)v
+Self-Attention 是模型捕捉上下文信息的核心机制。
+LLaMA 使用了 FlashAttention 来提升推理效率。
+你知道什么是位置编码吗？
+LLaMA 使用了 FlashAttention 来提升推理效率。
+模型参数量越大，越能表达复杂模式。
+Self-Attention 是模型捕捉上下文信息的核心机制。
+你知道什么是位置编码吗？
+大模型能够学习语言的统计规律。
+attention(q, k, v) = softmax(qk^T)v
+LLM 模型通常使用 BPE 作为分词方式。
+attention(q, k, v) = softmax(qk^T)v
+模型参数量越大，越能表达复杂模式。
+请解释一下 q、k、v 的作用？
+模型输出的是下一个 token 的概率分布。
+LLM 模型通常使用 BPE 作为分词方式。
+以下是一个简单的例子。
+优化器使用的是 AdamW。
+模型输出的是下一个 token 的概率分布。
+大模型能够学习语言的统计规律。
+请解释一下 q、k、v 的作用？
+模型参数量越大，越能表达复杂模式。
+以下是一个简单的例子。
+attention(q, k, v) = softmax(qk^T)v
+def hello(): print("你好，大模型")
+Transformer 是什么？
+优化器使用的是 AdamW。
+请解释一下 q、k、v 的作用？
+以下是 Python 代码示例：
+训练数据越丰富，模型越强大。
+以下是一个简单的例子。
+你知道什么是位置编码吗？
+模型参数量越大，越能表达复杂模式。
+你好，欢迎学习大语言模型。
+训练数据越丰富，模型越强大。
+大模型能够学习语言的统计规律。
+Transformer 是什么？
+LLaMA 使用了 FlashAttention 来提升推理效率。
+我们今天将手动搭建一个类 LLaMA 的小模型。
+你好，欢迎学习大语言模型。
+模型输出的是下一个 token 的概率分布。
+以下是 Python 代码示例：
+Transformer 是什么？
+Transformer 是什么？
+请解释一下 q、k、v 的作用？
+大模型能够学习语言的统计规律。
+你好，欢迎学习大语言模型。
+Transformer 是什么？
+你好，欢迎学习大语言模型。
+以下是 Python 代码示例：
+以下是 Python 代码示例：
+现在开始训练我们的 tokenizer。
+欢迎来到 AI 时代。
+模型参数量越大，越能表达复杂模式。
+def hello(): print("你好，大模型")
+模型参数量越大，越能表达复杂模式。
+以下是一个简单的例子。
+你好，欢迎学习大语言模型。
+训练数据越丰富，模型越强大。
+RMSNorm 是一种轻量化归一化方式。
+优化器使用的是 AdamW。
+LLM 模型通常使用 BPE 作为分词方式。
+模型参数量越大，越能表达复杂模式。
+以下是 Python 代码示例：
+以下是一个简单的例子。
+以下是一个简单的例子。
+Transformer 是什么？
+我们今天将手动搭建一个类 LLaMA 的小模型。
+Self-Attention 是模型捕捉上下文信息的核心机制。
+你知道什么是位置编码吗？
+优化器使用的是 AdamW。
+attention(q, k, v) = softmax(qk^T)v
+我们今天将手动搭建一个类 LLaMA 的小模型。
+欢迎来到 AI 时代。
+模型参数量越大，越能表达复杂模式。
+大模型能够学习语言的统计规律。
+你知道什么是位置编码吗？
+训练数据越丰富，模型越强大。
+RMSNorm 是一种轻量化归一化方式。
+attention(q, k, v) = softmax(qk^T)v
+模型参数量越大，越能表达复杂模式。
+欢迎来到 AI 时代。
+以下是一个简单的例子。
+attention(q, k, v) = softmax(qk^T)v
+Transformer 是什么？
+Self-Attention 是模型捕捉上下文信息的核心机制。
+以下是一个简单的例子。
+我们今天将手动搭建一个类 LLaMA 的小模型。
+欢迎来到 AI 时代。
+LLaMA 使用了 FlashAttention 来提升推理效率。
+以下是一个简单的例子。
+我们今天将手动搭建一个类 LLaMA 的小模型。
+优化器使用的是 AdamW。
+Transformer 是什么？
+欢迎来到 AI 时代。
+优化器使用的是 AdamW。
+请解释一下 q、k、v 的作用？
+以下是一个简单的例子。
+我们今天将手动搭建一个类 LLaMA 的小模型。
+训练数据越丰富，模型越强大。
+Self-Attention 是模型捕捉上下文信息的核心机制。
+你知道什么是位置编码吗？
+Self-Attention 是模型捕捉上下文信息的核心机制。
+LLaMA 使用了 FlashAttention 来提升推理效率。
+优化器使用的是 AdamW。
+我们今天将手动搭建一个类 LLaMA 的小模型。
+我们今天将手动搭建一个类 LLaMA 的小模型。
+大模型能够学习语言的统计规律。
+LLaMA 使用了 FlashAttention 来提升推理效率。
+我们今天将手动搭建一个类 LLaMA 的小模型。
+attention(q, k, v) = softmax(qk^T)v
+你好，欢迎学习大语言模型。
+大模型能够学习语言的统计规律。
+模型输出的是下一个 token 的概率分布。
+你好，欢迎学习大语言模型。
+Transformer 是什么？
+RMSNorm 是一种轻量化归一化方式。
+现在开始训练我们的 tokenizer。
+Self-Attention 是模型捕捉上下文信息的核心机制。
+大模型能够学习语言的统计规律。
+LLaMA 使用了 FlashAttention 来提升推理效率。
+attention(q, k, v) = softmax(qk^T)v
+RMSNorm 是一种轻量化归一化方式。
+你好，欢迎学习大语言模型。
+大模型能够学习语言的统计规律。
+现在开始训练我们的 tokenizer。
+def hello(): print("你好，大模型")
+我们今天将手动搭建一个类 LLaMA 的小模型。
+Self-Attention 是模型捕捉上下文信息的核心机制。
+现在开始训练我们的 tokenizer。
+以下是一个简单的例子。
+大模型能够学习语言的统计规律。
+大模型能够学习语言的统计规律。
+优化器使用的是 AdamW。
+attention(q, k, v) = softmax(qk^T)v
+模型参数量越大，越能表达复杂模式。
+以下是一个简单的例子。
+你知道什么是位置编码吗？
+请解释一下 q、k、v 的作用？
+模型参数量越大，越能表达复杂模式。
+以下是一个简单的例子。
+我们今天将手动搭建一个类 LLaMA 的小模型。
+RMSNorm 是一种轻量化归一化方式。
+LLM 模型通常使用 BPE 作为分词方式。
+你好，欢迎学习大语言模型。
+现在开始训练我们的 tokenizer。
+欢迎来到 AI 时代。
+模型参数量越大，越能表达复杂模式。
+LLM 模型通常使用 BPE 作为分词方式。
+训练数据越丰富，模型越强大。
+以下是一个简单的例子。
+LLM 模型通常使用 BPE 作为分词方式。
+训练数据越丰富，模型越强大。
+训练数据越丰富，模型越强大。
+LLM 模型通常使用 BPE 作为分词方式。
+Transformer 是什么？
+优化器使用的是 AdamW。
+def hello(): print("你好，大模型")
+Transformer 是什么？
+请解释一下 q、k、v 的作用？
+Transformer 是什么？
+训练数据越丰富，模型越强大。
+现在开始训练我们的 tokenizer。
+Transformer 是什么？
+LLaMA 使用了 FlashAttention 来提升推理效率。
+请解释一下 q、k、v 的作用？
+你好，欢迎学习大语言模型。
+以下是 Python 代码示例：
+你好，欢迎学习大语言模型。
+欢迎来到 AI 时代。
+大模型能够学习语言的统计规律。
+我们今天将手动搭建一个类 LLaMA 的小模型。
+模型输出的是下一个 token 的概率分布。
+attention(q, k, v) = softmax(qk^T)v
+以下是 Python 代码示例：
+你知道什么是位置编码吗？
+我们今天将手动搭建一个类 LLaMA 的小模型。
+模型输出的是下一个 token 的概率分布。
+请解释一下 q、k、v 的作用？
+模型参数量越大，越能表达复杂模式。
+def hello(): print("你好，大模型")
+训练数据越丰富，模型越强大。
+优化器使用的是 AdamW。
+模型参数量越大，越能表达复杂模式。
+Transformer 是什么？
+RMSNorm 是一种轻量化归一化方式。
+LLaMA 使用了 FlashAttention 来提升推理效率。
+以下是 Python 代码示例：
+优化器使用的是 AdamW。
+请解释一下 q、k、v 的作用？
+RMSNorm 是一种轻量化归一化方式。
+attention(q, k, v) = softmax(qk^T)v
+优化器使用的是 AdamW。
+以下是 Python 代码示例：
+以下是一个简单的例子。
+欢迎来到 AI 时代。
+欢迎来到 AI 时代。
+现在开始训练我们的 tokenizer。
+模型输出的是下一个 token 的概率分布。
+现在开始训练我们的 tokenizer。
+你知道什么是位置编码吗？
+以下是一个简单的例子。
+现在开始训练我们的 tokenizer。
+RMSNorm 是一种轻量化归一化方式。
+训练数据越丰富，模型越强大。
+以下是 Python 代码示例：
+你好，欢迎学习大语言模型。
+大模型能够学习语言的统计规律。
+attention(q, k, v) = softmax(qk^T)v
+LLM 模型通常使用 BPE 作为分词方式。
+模型参数量越大，越能表达复杂模式。
+大模型能够学习语言的统计规律。
+现在开始训练我们的 tokenizer。
+def hello(): print("你好，大模型")
+模型输出的是下一个 token 的概率分布。
+现在开始训练我们的 tokenizer。
+模型输出的是下一个 token 的概率分布。
+RMSNorm 是一种轻量化归一化方式。
+你知道什么是位置编码吗？
+attention(q, k, v) = softmax(qk^T)v
+请解释一下 q、k、v 的作用？
+LLM 模型通常使用 BPE 作为分词方式。
+现在开始训练我们的 tokenizer。
+现在开始训练我们的 tokenizer。
+我们今天将手动搭建一个类 LLaMA 的小模型。
+优化器使用的是 AdamW。
+LLM 模型通常使用 BPE 作为分词方式。
+LLM 模型通常使用 BPE 作为分词方式。
+以下是 Python 代码示例：
+以下是一个简单的例子。
+LLM 模型通常使用 BPE 作为分词方式。
+Transformer 是什么？
+以下是一个简单的例子。
+现在开始训练我们的 tokenizer。
+优化器使用的是 AdamW。
+Self-Attention 是模型捕捉上下文信息的核心机制。
+模型参数量越大，越能表达复杂模式。
+以下是一个简单的例子。
+现在开始训练我们的 tokenizer。
+以下是一个简单的例子。
+LLM 模型通常使用 BPE 作为分词方式。
+Transformer 是什么？
+以下是 Python 代码示例：
+大模型能够学习语言的统计规律。
